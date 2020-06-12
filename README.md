@@ -35,7 +35,7 @@
 安装 sails
 
 ```
-> npm clean cache -force
+> npm cache clean -force
 ```
 
 ```
