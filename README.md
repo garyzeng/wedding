@@ -35,6 +35,10 @@
 安装 sails
 
 ```
+> npm clean cache -force
+```
+
+```
 > npm install sails -g
 ```
 
